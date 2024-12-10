@@ -15,11 +15,11 @@ int main() {
     letters.push_back("abc");
     string s("def");
     letters.push_back(move(s));
-    cout<<"vecotr letters holds";
+    cout<<"vector letters holds";
     for (auto & i:letters)
         {
             cout<<quoted(i)<<" ";
         }
-    cout<<"\nMoveed-from string s holds "<<quoted(s)<<"\n";
+    cout<<"\nMoved-from string s holds "<<quoted(s)<<"\n";
     return 0;
 }
