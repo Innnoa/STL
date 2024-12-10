@@ -1,0 +1,3 @@
+G:/c++/STL/STL/vector/emplace/cmake-build-debug/CMakeFiles/emplace.dir
+G:/c++/STL/STL/vector/emplace/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c++/STL/STL/vector/emplace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
