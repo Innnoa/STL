@@ -11,5 +11,10 @@ using namespace std;
 
 int main() {
     ios::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
+    constexpr array numbers{3, 1, 4, 1};
+    constexpr array<int, 0> no_numbers{};
+    cout << boolalpha;
+    cout << "numbers.empty(): " << numbers.empty() << "\n";
+    cout << "no_numbers.empty(): " << no_numbers.empty() << "\n";
     return 0;
 }
