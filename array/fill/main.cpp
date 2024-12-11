@@ -17,7 +17,8 @@ int main() {
     board.fill({0xE2,0x96,0x84,0xE2,0x96,0x80,0,0});
     for (size_t count{};auto c:board)
         {
-            cout<<c.data()<<((++count%xy)?"":"\n");
+            auto m = c.data();
+            cout<<m<<((++count%xy)?"":"\n");
         }
     return 0;
 }

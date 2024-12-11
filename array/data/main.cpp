@@ -9,8 +9,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void pointer_func(const auto * p,auto size) {
+void pointer_func(const int * p,auto size) {
     cout<<"data = ";
+    //cout<<p;
     for (auto i=0;i<size;i++)cout<<p[i]<<" ";
     cout<<"\n";
 }
