@@ -11,6 +11,16 @@ using namespace std;
 
 int main() {
     ios::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
-    
+    deque<string> deq{"hello","world"};
+    deq.push_back("fuck");
+    string a = {"sick"};
+    deq.push_back(move(a));
+    cout<<"all letters"<<"\n";
+    for (const auto & i:deq)
+        {
+            cout<<quoted(i)<<" ";
+        }
+    cout<<"\n";
+    cout<<quoted(a);
     return 0;
 }
