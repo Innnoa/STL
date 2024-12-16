@@ -1,0 +1,3 @@
+G:/c++/STL/STL/list/size/cmake-build-debug/CMakeFiles/size.dir
+G:/c++/STL/STL/list/size/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c++/STL/STL/list/size/cmake-build-debug/CMakeFiles/rebuild_cache.dir
