@@ -1,0 +1,4 @@
+E:\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S G:\c++\STL\STL\map\emplace_hint -B G:\c++\STL\STL\map\emplace_hint\cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: G:/c++/STL/STL/map/emplace_hint/cmake-build-debug
