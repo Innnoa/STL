@@ -1,0 +1,15 @@
+# ninja log v6
+3	1750	7564778920000000	CMakeFiles/count.dir/main.cpp.obj	b4bbcc2a24bee413
+1757	1939	7564778940000000	count.exe	76b3dcc5afb3a80f
+7	1718	7564779040000000	CMakeFiles/count.dir/main.cpp.obj	b4bbcc2a24bee413
+1720	1913	7564779060000000	count.exe	76b3dcc5afb3a80f
+6	1744	7564779180000000	CMakeFiles/count.dir/main.cpp.obj	b4bbcc2a24bee413
+1747	1934	7564779200000000	count.exe	76b3dcc5afb3a80f
+6	1732	7564782380000000	CMakeFiles/count.dir/main.cpp.obj	b4bbcc2a24bee413
+1735	1930	7564782400000000	count.exe	76b3dcc5afb3a80f
+7	1757	7564782560000000	CMakeFiles/count.dir/main.cpp.obj	b4bbcc2a24bee413
+1760	1890	7564782580000000	count.exe	76b3dcc5afb3a80f
+6	1638	7564782660000000	CMakeFiles/count.dir/main.cpp.obj	b4bbcc2a24bee413
+1641	1790	7564782660000000	count.exe	76b3dcc5afb3a80f
+6	1615	7564782740000000	CMakeFiles/count.dir/main.cpp.obj	b4bbcc2a24bee413
+1618	1791	7564782760000000	count.exe	76b3dcc5afb3a80f
