@@ -1,0 +1,5 @@
+# ninja log v6
+3	1868	7567030280000000	CMakeFiles/stack_constructor.dir/main.cpp.obj	133a1b2d319e94f3
+1875	2072	7567030300000000	stack_constructor.exe	3ef20fec5a3fd89c
+7	1831	7567034680000000	CMakeFiles/stack_constructor.dir/main.cpp.obj	133a1b2d319e94f3
+1890	2052	7567034700000000	stack_constructor.exe	3ef20fec5a3fd89c
