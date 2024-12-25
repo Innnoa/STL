@@ -36,8 +36,7 @@ int main() {
     pq4.push(7.0 + 3i);
     for (; !pq4.empty(); pq4.pop())
         {
-            const auto &z = pq4.top();
-            cout << "pq4.top() = " << z << "\n";
+            cout << "pq4.top() = " << pq4.top() << "\n";
         }
     return 0;
 }
